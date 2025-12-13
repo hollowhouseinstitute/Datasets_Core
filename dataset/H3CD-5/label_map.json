@@ -1,0 +1,12 @@
+{
+  "label_map_version": "1.0.0",
+  "dataset": "H3CD-5",
+  "governance_authority": "Master_License_Suite",
+  "governance_link": "https://github.com/hollowhouseinstitute/Master_License_Suite",
+  "license": "AHRL-1",
+
+  "intent": {
+    "feedback": {
+      "description": "User or AI provides evaluative or reflective commentary."
+    },
+    "question": {
