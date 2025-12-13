@@ -1,6 +1,9 @@
 # Datasets Core — Standardized Open Dataset Catalog and Schemas
 
 Datasets Core is a curated, standards-first repository of dataset schemas, metadata templates, and tooling to help teams publish consistent, discoverable open datasets for machine learning, analytics, and research.
+🛡 Data governance and licensing definitions are inherited from  
+**Hollow House Institute — Master License Suite**  
+https://github.com/hollowhouseinstitute/Master_License_Suite
 
 📄 Usage is governed by the repository-level `DATASET_LICENSE.md`.
 
