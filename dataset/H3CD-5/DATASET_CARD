@@ -1,0 +1,30 @@
+# Dataset Card — H3CD-5
+
+## Summary
+H3CD-5 is a small, controlled sample dataset containing 39 anonymized
+human–AI conversational messages. It demonstrates the structure, labeling
+approach, and governance standards used by Hollow House Institute.
+
+## Intended Use
+- Research and evaluation of relational AI systems
+- Demonstration of ethical dataset structuring
+- Schema and pipeline validation
+
+## Not Intended For
+- Clinical or diagnostic use
+- Surveillance or profiling
+- Training exploitative or manipulative systems
+
+## Dataset Size
+- 39 messages
+
+## Data Structure
+- Raw messages
+- Processed representations
+- Relational labels
+
+## License
+Governed by `DATASET_LICENSE.md` (HHI-DATA).
+
+## Contact
+contact@hollowhouseinstitute.proton.me
