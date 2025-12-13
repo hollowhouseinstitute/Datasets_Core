@@ -1,0 +1,25 @@
+- name: message_id
+  type: string
+  description: Unique identifier for each message.
+
+- name: speaker_role
+  type: string
+  enum: ["human", "ai"]
+  description: Origin of the message.
+
+- name: message_text
+  type: string
+  description: Anonymized conversational content.
+
+- name: timestamp
+  type: datetime
+  format: ISO-8601
+  description: Timestamp of the message event.
+
+- name: relational_label
+  type: string
+  description: Assigned relational or interactional label.
+
+- name: processing_stage
+  type: string
+  description: Pipeline stage where the message was processed.
