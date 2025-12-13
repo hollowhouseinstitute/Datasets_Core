@@ -1,0 +1,12 @@
+fields:
+  - name: id
+    type: string
+    description: Unique record identifier
+
+  - name: content
+    type: string
+    description: Primary dataset content
+
+  - name: timestamp
+    type: datetime
+    format: ISO-8601
