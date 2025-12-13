@@ -2,6 +2,8 @@
 
 Datasets Core is a curated, standards-first repository of dataset schemas, metadata templates, and tooling to help teams publish consistent, discoverable open datasets for machine learning, analytics, and research.
 
+📄 Usage is governed by the repository-level `DATASET_LICENSE.md`.
+
 SEO summary: open datasets, dataset metadata, data catalog, data governance, dataset schemas, data pipelines, reproducible datasets.
 
 Why this repo exists
