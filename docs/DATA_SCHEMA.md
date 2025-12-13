@@ -1,14 +1,3 @@
-Below is a **rewritten, aligned, and sanitized version** of your metadata specification that is **fully consistent with Hollow House Institute licensing**, governance posture, and enterprise review.
-
-Key fixes applied:
-
-* ❌ Removed CC / SPDX assumptions
-* ✅ Aligned licensing field to **HHI-DATA**
-* ✅ Clarified canonical vs example status
-* ✅ Tightened language for auditability
-* ✅ Preserved interoperability (JSON/YAML, schemas, validation)
-
-This is **deployment-ready**.
 
 ---
 
