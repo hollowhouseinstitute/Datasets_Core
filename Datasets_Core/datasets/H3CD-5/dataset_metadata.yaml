@@ -1,0 +1,28 @@
+title: "H3CD-5 — Human–AI Relational Conversation Sample (39 Messages)"
+slug: "h3cd-5-human-ai-relational-sample"
+description: >
+  A limited sample dataset containing 39 anonymized human–AI conversational
+  messages demonstrating relational labeling, processing structure, and
+  ethical dataset governance for human-centered AI research.
+keywords:
+  - relational-data
+  - conversational-ai
+  - behavioral-signals
+  - human-ai-interaction
+  - sample-dataset
+license: "HHI-DATA"
+version: "v0.1.0"
+authors:
+  - name: "Hollow House Institute"
+    affiliation: "Hollow House Institute"
+    github: "hollowhouseinstitute"
+source: "Generated internally by Hollow House Institute"
+schema: "schema.yaml"
+temporal_coverage:
+  start: "2025-01-01"
+  end: "2025-01-01"
+spatial_coverage: "global"
+citation: >
+  Hollow House Institute (2025).
+  H3CD-5 — Human–AI Relational Conversation Sample (v0.1.0).
+  https://github.com/hollowhouseinstitute/Datasets_Core
