@@ -5,7 +5,7 @@ If you discover a security vulnerability or privacy issue (e.g., accidental PII 
 Immediate steps for reporters
 1. Do NOT create a public issue.
 2. Contact the maintainers securely:
-   - Preferred: [maintainer-email@example.org] (replace with a monitored address)
+hhidatasettechs@gmail.com
    - If email not available, open a draft/private issue and tag @hollowhouseinstitute (for minimal exposure).
 
 What to include
