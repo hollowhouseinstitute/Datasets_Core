@@ -60,7 +60,7 @@ SEO keywords (for README, repo About and metadata)
 open data, dataset catalog, dataset metadata, data governance, machine learning datasets, data cleaning, dataset schema, reproducible research, data pipeline
 
 Maintainers & contact
-- Hollow House Institute — hhidatasettechs@gmail.com 
+- Hollow House Institute — data@hollowhouse.org 
 - For issues or dataset requests: use the Issues tab
 
 License
