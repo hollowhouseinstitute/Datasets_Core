@@ -65,3 +65,17 @@ Maintainers & contact
 
 License
 This repository uses the MIT License — see LICENSE
+---
+
+**Hollow House Institute**  
+Structured Human Intelligence  
+
+Website: https://hollowhouseinstitute.com  
+Datasets: https://hollowhouseinstitute.com/datasets  
+Licensing: https://hollowhouseinstitute.com/licensing  
+
+Contact: data@hollowhouseinstitute.com
+
+
+
+
