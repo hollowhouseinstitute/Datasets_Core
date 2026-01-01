@@ -1,4 +1,6 @@
 # Datasets Core — Standardized Open Dataset Catalog and Schemas
+> Time turns behavior into infrastructure.  
+> Behavior is the most honest data there is.
 
 Datasets Core is a curated, standards-first repository of dataset schemas, metadata templates, and tooling to help teams publish consistent, discoverable open datasets for machine learning, analytics, and research.
 
